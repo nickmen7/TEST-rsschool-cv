@@ -11,6 +11,7 @@ After completing the master's degree, there was free time. At work, a new introd
 4. ***Skills:***
 * HTML,CSS,JavaScript
 * Git, GitHub
+* Visual Studio Code
 ---
 5. ***Code example:***
 ```var randomLoc = Math.floor(Math.random()*5)
