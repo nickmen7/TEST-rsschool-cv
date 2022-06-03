@@ -2,9 +2,9 @@
 
 # Contact information:
 
-    * Mail: Nickmen2011@yandex.ru
-    * Phone: +79122609890
-    * Telegram: +79122609890
+* Mail: Nickmen2011@yandex.ru
+* Phone: +79122609890
+* Telegram: +79122609890
 
 # Goal:
 
