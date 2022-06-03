@@ -1,19 +1,23 @@
-1. ***Nickolay Chistakov***
+1. # Nickolay Chistakov
 
-2. ***Contact information:***
-    Mail: Nickmen2011@yandex.ru
-    Phone: +79122609890
-    Telegram: +79122609890
+2. # Contact information:
 
- 3. ***Goal:***
+    * Mail: Nickmen2011@yandex.ru
+    * Phone: +79122609890
+    * Telegram: +79122609890
+
+ 3. # Goal:
+
 After completing the master's degree, there was free time. At work, a new introduction was introduced (a database based on the site), using the database, there was a desire to create your own website, with your own vision of how the site should work, since ordinary specialists do not listen.
 
-4. ***Skills:***
+4. # Skills:
+
 * HTML,CSS,JavaScript
 * Git, GitHub
 * Visual Studio Code
 
-5. ***Code example:***
+5. # Code example:
+
 ```var randomLoc = Math.floor(Math.random()*5)
 while (isSunk == false) {
     guess = prompt("Ready, aim, fire! (enter a number 0-6):");
@@ -37,13 +41,16 @@ var stats = "You took" + guess + "guesse to sink the battleship," + "which means
 alert(stats);
 ```
 
-6. ***Work experience:***
-In the field of IT: None
+6. # Work experience:
 
-7. ***Education:***
+* In the field of IT: None
+
+7. # Education:
+
 I have 2 higher educations:
 * Engineering education
 * Higher School of Economics (URFU)
 
-8. ***English language***
-Basic (A2)
+8. # English language:
+
+* Basic (A2)
