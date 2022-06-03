@@ -18,7 +18,8 @@ After completing the master's degree, there was free time. At work, a new introd
 
 ### Code example:
 
-```var randomLoc = Math.floor(Math.random()*5)
+```javascript
+var randomLoc = Math.floor(Math.random()*5)
 while (isSunk == false) {
     guess = prompt("Ready, aim, fire! (enter a number 0-6):");
     if (guess < 0 || guess > 6) {
