@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #f5290e;
+  --primary-color: #0509fc;
   --secondary-color: rgb(0, 0, 0);
 }
 html {
@@ -7,4 +7,32 @@ html {
   }
 * {
   color: var(--secondary-color);
+}
+
+h1 {
+  color: var(--primary-color);
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  color:var(--secondary-color);
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+a {
+  color:var(--primary-color);
+}
+
+.contact {
+  display: flex;
+
+}
+
+li {
+  color:var(--secondary-color);
+  font-size: 1em;
+  margin-top: 0em;
+  margin-bottom: 0.5em;
 }
