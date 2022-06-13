@@ -1,2 +1,11 @@
-
-1111
+*{
+  margin: 0;
+  padding: 0;  
+}
+.text-block {
+    background-color: rgb(255, 153, 0);
+    display: block;
+    width: 125px;
+    height: 19px;
+    overflow: hidden;
+}
